@@ -48,10 +48,11 @@ flutter:
   assets:
     - images/example.png
     - images/tt.png
-    - images/email.png
-    - images/fb.jpg
+    - images/mail.png
+    - images/fb.png
     - images/insta.png
     - images/cel.png
+    - images/git.png
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
